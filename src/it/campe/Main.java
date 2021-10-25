@@ -11,7 +11,7 @@ public class Main {
         String s2 = scanner.nextLine();
         String s3 = scanner.nextLine();
         System.out.println(s3);
-        System.out.println(s2.toUpperCase(Locale.ROOT));
-        System.out.println(s1.toLowerCase(Locale.ROOT));
+        System.out.println(s2.toUpperCase());
+        System.out.println(s1.toLowerCase());
     }
 }
